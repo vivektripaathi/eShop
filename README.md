@@ -23,7 +23,7 @@ Through this project, I've deepened my knowledge in several areas:
 
 🚀 How to Run:
 1. Clone this repository: `git clone https://github.com/vivek-tripathi-9005/eShop`
-2. Navigate to the project directory: `cd eShop-project`
+2. Navigate to the project directory: `cd eShop`
 3. Run `npm install` command in terminal to install required dependencies.
 4. Create an .env file or run `touch .env` for the same and create 3 variables in it
     1. API_URL : <!-- Contains version of api like api/v1 -->
