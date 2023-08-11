@@ -1,0 +1,5 @@
+# To make git ignore to commit the environment variables cntaing sensitive values
+.env
+
+# To make git ignore to commit the node_modules folder
+node_modules
