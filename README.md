@@ -22,7 +22,7 @@ Through this project, I've deepened my knowledge in several areas:
 - API Tool : Postman
 
 🚀 How to Run:
-1. Clone this repository: `git clone https://github.com/your-username/eShop-project.git`
+1. Clone this repository: `git clone https://github.com/vivek-tripathi-9005/eShop`
 2. Navigate to the project directory: `cd eShop-project`
 3. Run `npm install` command in terminal to install required dependencies.
 4. Create an .env file or run `touch .env` for the same and create 3 variables in it
